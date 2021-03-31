@@ -264,6 +264,6 @@ process.on('beforeExit', (code) => {
 });
 
 /**
- * Xmaster13#0013s
+ * Xmaster13#0013
  */
 client.login(config.token);
