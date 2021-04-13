@@ -1,7 +1,7 @@
 {
-  "name": "axuze",
+  "name": "axuze-tickets",
   "version": "1.0.0",
-  "description": "asd",
+  "description": "Axuze bot ticket",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
